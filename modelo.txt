@@ -1,0 +1,20 @@
+-Modelo de modal.
+Usar o modelo do bootstrap
+
+-Perguntas
+https://pt.quizur.com/trivia/tecnologia-da-informacao-19D9
+
+-resposta:
+resposta errada = 0
+resposta certa = 1
+se for certa R + 1
+
+-Selecionar
+eventClick(intagram X ou ✓)
+se o selecionado = 0 = X, danger, aumentar de tamanho, mostrar a correta
+se o selecionado = 1 = ✓, success, aumentar de tamanho.
+
+-proxima pergunta "transição"
+
+-percentual de acerto:
+X = (R * 100)/5

@@ -1,0 +1,22 @@
+html, body{
+    margin: 0;
+    height: 100%;
+    display: flex;
+    background-image:url('/IMG/wallpapper.jpg');
+    background-size:cover;
+    background-position:center;
+    position: static !important;
+    padding-right: 0px !important;
+}
+.sombra{
+    background-color:rgba(0, 0, 0, 0.5) ;
+    position: absolute;
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+}
+.posit{
+    height: 100vh;
+}
+
